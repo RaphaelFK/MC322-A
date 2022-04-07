@@ -1,5 +1,5 @@
 # Lab03 - Lombriga no Aquário
 
-## Projeto do lab lombriga
+## Projeto lombriga no aquário
 
-> [Projeto](src/pt/c02oo/s02classe/s03lombriga)
+> [arquivos java](src/pt/c02oo/s02classe/s03lombriga)
